@@ -10,5 +10,5 @@ for(i = 0; i < 10; i++) {
     document.write(c + "<br>");
 }
 
-document.write("<img src='images/mouse.png' alt='Rato golden ratio'>")
+document.write("<img src='images/rato.jpeg' alt='Rato golden ratio'>")
 document.write("<img src='images/numbers.jpg' alt='Sequência de Fibonacci'>")
